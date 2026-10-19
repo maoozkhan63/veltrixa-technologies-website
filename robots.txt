@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the placeholder below after publishing:
+# Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
